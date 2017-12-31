@@ -1,0 +1,30 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target="#sidebar">
+    {% include nav.html %}
+
+    <div class="container">
+        <section class="content-section text-center small-imgs fadeInFast">
+            <div class="row">
+                {% for post in site.posts %}
+                    <div class="clear">
+                        <div class="col-sm-6 col-md-4 col-lg-3">
+                            <a href="{{ post.url | prepend: site.url | append: "index.html" }}">
+                                <h5>{{ post.title }}</h5>
+                                <img class="img-responsive center-block" src="{{ post.image }}"/>
+                            </a>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </section>
+    </div>
+
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

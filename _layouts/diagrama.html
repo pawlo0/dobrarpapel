@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target="#sidebar">
+    {% include nav.html %}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <section class="content-section text-center fadeInFast">
+
+                    <h2>{{ page.title }}</h2>
+                    {{ content }}
+                    <a href="{{ "/diagramas/index.html" | prepend: site.url }}" class="btn btn-default">Voltar</a>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

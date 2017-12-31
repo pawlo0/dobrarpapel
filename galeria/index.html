@@ -1,0 +1,139 @@
+---
+images:
+  - alt: Águia
+    src: ./img/aguia_thumb.jpg
+    fullsrc: ./img/aguia.jpg
+    desc: Modelo de Robert Lang. A partir de um quadrado de papel Canson recorrendo a Wet Folding.
+    category: Aves
+  - alt: VW Beetle
+    src: ./img/beetle_thumb.jpg
+    fullsrc: ./img/beetle.jpg
+    desc: Modelo de Charles Esseltine. A partir de um quadrado de papel metálico.
+    category: Objectos
+  - alt: Beija-flor
+    src: ./img/beija_thumb.jpg
+    fullsrc: ./img/beija.jpg
+    desc: Modelo do Beija-flor de Peter Engel. Beija-flor a partir de um quadrado de papel Canson recorrendo a wet folding. Narcisos (cada um) a partir de um petágono de foil papel. Caules (cada um) a partir um quadrado de papel Fabriano recorrendo a wet folding.
+    category: Aves
+  - alt: Biplano
+    src: ./img/biplano_thumb.jpg
+    fullsrc: ./img/biplano.jpg
+    desc: Modelo de Robert Lang. A partir de um quadrado de papel Canson recorrendo a wet folding.
+    category: Objectos
+  - alt: Borboleta
+    src: ./img/borboleta_thumb.jpg
+    fullsrc: ./img/borboleta.jpg
+    desc: Modelo de Peter Engel. A partir de um quadrado de papel foil.
+    category: Insectos
+  - alt: Cavalo
+    src: ./img/cavalo_thumb.jpg
+    fullsrc: ./img/cavalo.jpg
+    desc: Modelo de David Brill. A partir de um triângulo equilátero de papel de embrulho canelado recorrendo a wet folding.
+    category: Animais
+  - alt: Rinoceronte
+    src: ./img/rino_thumb.jpg
+    fullsrc: ./img/rino.jpg
+    desc: Modelo de David Brill. A partir de um quadrado de papel foil.
+    category: Animais
+  - alt: Elefante
+    src: ./img/elefante_thumb.jpg
+    fullsrc: ./img/elefante.jpg
+    desc: Modelo de David Brill. A partir de um quadrado de papel Canson recorrendo à técnica de wet folding.
+    category: Animais
+  - alt: Rã das árvores
+    src: ./img/ra_thumb.jpg
+    fullsrc: ./img/ra.jpg
+    desc: Modelo de Robert Lang. A partir de um quadrado de foil paper.
+    category: Animais
+  - alt: Gato
+    src: ./img/gato_thumb.jpg
+    fullsrc: ./img/gato.jpg
+    desc: Modelo de Herman Van Goubergen. A partir de um triângulo recto de dois lado iguais de papel Fabriano e recorrendo a wet folding.
+    category: Animais
+  - alt: Rosa de Kawasaki
+    src: ./img/kawasaki_thumb.jpg
+    fullsrc: ./img/kawasaki.jpg
+    desc: Modelo de Toshikazu Kawasaki. A partir de um quadrado de papel Unryu. Sépalas a partir de um quadrado de papel kraft. Foram usados arames de jardineiro para compor o conjunto.
+    category: Flores
+  - alt: Esqueleto de T-Rex
+    src: ./img/yakai_thumb.jpg
+    fullsrc: ./img/yakai.jpg
+    desc: Modelo de Issei Yoshino. A partir de 21 quadrados de papel Fabriano recorrendo a wet folding.
+    category: Dinossauros
+  - alt: Triceratops
+    src: ./img/tricer_thumb.jpg
+    fullsrc: ./img/tricer.jpg
+    desc: Modelo de Fumiaki Kawahata. A partir de um quadrado de foil papel.
+    category: Dinossauros
+  - alt: Ganso
+    src: ./img/ganso_thumb.jpg
+    fullsrc: ./img/ganso.jpg
+    desc: Modelo de John Montroll. A partir (cada um) de um quadrado de papel vegetal.
+    category: Aves
+  - alt: Hercules Beetle
+    src: ./img/hercul_thumb.jpg
+    fullsrc: ./img/hercul.jpg
+    desc: Modelo de Satoshi Kamiya. A partir de um quadrado de papel foil.
+    category: Insectos
+  - alt: True Woven Dodecahedron
+    src: ./img/hercul_thumb.jpg
+    fullsrc: ./img/hercul.jpg
+    desc: Modelo de David Brill. A partir de 6 retângulos de papel colorido.
+    category: Geométricos
+  - alt: Estrela
+    src: ./img/estrela_thumb.jpg
+    fullsrc: ./img/estrela.jpg
+    desc: Modelo de Robert Lang. A partir de um quadrado de papel colorido.
+    category: Geométricos
+  - alt: Polvo
+    src: ./img/polvo_thumb.jpg
+    fullsrc: ./img/polvo.jpg
+    desc: Modelo de Peter Engel. A partir de um quadrado de papel foil.
+    category: Peixes
+  - alt: Tubarão
+    src: ./img/tubar_thumb.jpg
+    fullsrc: ./img/tubar.jpg
+    desc: Modelo de Robert Lang. A partir de um quadrado de papel Canson recorrendo a wet folding.
+    category: Peixes
+  - alt: Caracol
+    src: ./img/caracol_thumb.jpg
+    fullsrc: ./img/caracol.jpg
+    desc: Pode encontrar o diagrama para este modelo neste site.
+    category: Animais
+  - alt: Melro
+    src: ./img/melro_thumb.jpg
+    fullsrc: ./img/melro.jpg
+    desc: Pode encontrar o diagrama para este modelo neste site.
+    category: Aves
+  - alt: Tulipas
+    src: ./img/tulipas_thumb.jpg
+    fullsrc: ./img/tulipas.jpg
+    desc: Pode encontrar o diagrama para este modelo neste site
+    category: Flores
+
+---
+
+
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" data-spy="scroll" data-target="#sidebar">
+    {% include nav.html %}
+
+    <div class="container" style="height:100%">
+        <div class="row">
+            <div class="col-xs-12">
+                <section id="galeria" class="content-section text-center" >
+                    {% for image in page.images %}
+                        <img src="{{image.src}}" alt="{{image.alt}}" data-desc="{{image.desc}}" data-category="{{image.category}}" data-fullsrc="{{image.fullsrc}}"></img>
+                    {% endfor %}
+                </section>
+            </div>
+        </div>
+    </div>
+
+    {% include footer.html %}
+    {% include js.html %}
+    {% include js-galereya.html %}
+    </body>
+</html>

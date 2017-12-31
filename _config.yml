@@ -1,0 +1,26 @@
+# Site settings
+title: Dobrar Papel
+url: https://dl.dropboxusercontent.com/u/8889260
+description: "Origami, a arte japonesa de dobrar papel."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#5c5458'
+  links: '#219ab3'
+
+# Footer settings
+footer: Dobrar Papel
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: 'https://www.facebook.com/pages/Dobrar-Papel/117896828311098'
+
+# Build settings
+markdown: kramdown
+permalink: /diagramas/:title/
+
+collections:
+  - welcome
+  
+destination: ../../Public
