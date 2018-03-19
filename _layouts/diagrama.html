@@ -12,7 +12,9 @@
                     <h2>{{ page.title }}</h2>
                     {{ content }}
                     {% if page.youtubeId %}
-                        {% include youtubePlayer.html id=page.youtubeId %}
+                        <div class="row">
+                            {% include youtubePlayer.html id=page.youtubeId %}
+                        </div>
                     {% endif %}
                     <a href="{{ "/diagramas/index.html" | prepend: site.url }}" class="btn btn-default">Voltar</a>
                 </section>
