@@ -8,4 +8,4 @@ O pássaro que bate asas é também muito simples e parte da mesma base do anter
 
 ![Flapping bird](../img/img_25b.jpg)
 
-![Diagrama flapping bird](./img/img_dia_flap.jpg)
+![Diagrama flapping bird](../img/img_dia_flap.jpg)
