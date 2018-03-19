@@ -8,4 +8,4 @@ Um modelo tão simples e tão fácil de decorar e para mais com um resultado mui
 
 ![Borboleta](../img/img_25c.jpg)
 
-![Diagramas da borboleta](./img/img_dia_borb.jpg)
+![Diagramas da borboleta](../img/img_dia_borb.jpg)
