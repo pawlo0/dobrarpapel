@@ -10,4 +10,4 @@ Uma antiga lenda japonesa diz que qualquer pessoa que fizer mil pássaros Senbaz
 
 ![Crane](../img/img_25a.jpg)
 
-![Diagrama Senbazuru](./img/img_dia_senbazuru.jpg)
+![Diagrama Senbazuru](../img/img_dia_senbazuru.jpg)
