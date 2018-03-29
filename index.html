@@ -14,14 +14,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-9">
-                <section id="1" class="content-section text-center contentWithFadeIn" style="opacity: 0">
-                    <div class="row">
+                <section id="1" class="content-section contentWithFadeIn" style="opacity: 0">
                         {% for post in site.posts %}
                             <a href="{{ post.url | append: "index.html" }}">
-                                <img alt="{{post.title}}" src="{{ post.image }}"/>
+                                <img alt="{{post.title}}" src="{{post.image}}"/>
                             </a>
                         {% endfor %}
-                    </div>
                 </section>
                 {% for item in sorted_welcome %}
                     <section id="{{item.rank}}" class="content-section text-center contentWithFadeIn" style="opacity: 0">
