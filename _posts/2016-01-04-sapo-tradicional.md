@@ -12,4 +12,4 @@ Outro modelo tradicional e muito popular. Ainda que seja considerado de nivel in
 
 O diagrama começa logo na "base preliminar", mas veja o diagrama do Pássaro da Paz (Senbazuru) neste site para ver como se chega à base preliminar.
 
-![Diagrama sapo tradicional](../img/img_dia_sapo.jpg)
+![Diagrama sapo tradicional](/img/sapo_dia.jpg)
