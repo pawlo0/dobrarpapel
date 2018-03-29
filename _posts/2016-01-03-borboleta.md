@@ -1,11 +1,12 @@
 ---
 layout: diagrama
-title: Borboleta
-image: ./img/img_25c.jpg
+title: Borboleta (LaFosse)
+image: /img/borboleta_lafosse_thumb.jpg
 ---
 
-Um modelo tão simples e tão fácil de decorar e para mais com um resultado muito interessante. Um bom modelo para impressionar amigos e amigas porque toda a gente gosta de borboletas. O modelo da fotografia foi dobrado recorrendo à técnica de papel molhado. Esta técnica é interessante para este modelo para que o "corpo" da borboleta retenha a sua forma durante mais tempo. Se está interessado em saber mais sobre esta técnica dê uma vista de olhos ao artigo que escrevi sobre Papel húmido.
+Um modelo tão simples e tão fácil de decorar e para mais com um resultado muito interessante. Ideal para impressionar amigos e amigas porque é relativamente fácil, com um resultado bonito e toda a gente gosta de borboletas. 
+O modelo da fotografia abaixo foi dobrado recorrendo à técnica de papel molhado. Esta técnica é muito interessante para este modelo pois assim o "corpo" da borboleta retém a sua forma durante mais tempo do que se fosse dobrado num papel normal. Se está interessado em saber mais sobre esta técnica dê uma vista de olhos na secção de Papel húmido de site.
 
-![Borboleta](../img/img_25c.jpg)
+![Borboleta](/img/borboleta_lafosse.jpg)
 
-![Diagramas da borboleta](../img/img_dia_borb.jpg)
+![Diagramas da borboleta](/img/borboleta_lafosse_dia.jpg)
