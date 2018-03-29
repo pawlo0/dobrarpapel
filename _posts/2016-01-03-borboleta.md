@@ -2,6 +2,7 @@
 layout: diagrama
 title: Borboleta (LaFosse)
 image: /img/borboleta_lafosse_thumb.jpg
+category: Insectos
 ---
 
 Um modelo tão simples e tão fácil de decorar e para mais com um resultado muito interessante. Ideal para impressionar amigos e amigas porque é relativamente fácil, com um resultado bonito e toda a gente gosta de borboletas.

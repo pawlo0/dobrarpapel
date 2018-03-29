@@ -3,6 +3,7 @@ layout: diagrama
 title: Rosas num minuto
 image: /img/muitas_rosas_thumb.jpg
 youtubeId: KhWdF2uBCgc
+category: Flores
 ---
 
 A primeira vez que dobrei uma rosa de Kawasaki levei 3 dias a conseguir um resultado decente! Isto foi há mais de 15 anos. Nessa altura não havia youtube para ajudar a explicar os passos. Sim, já havia internet, mas não se encontravam videos de origami, apenas os diagramas. Claro que depois fui apanhando o jeito e levo agora muito menos tempo para dobrar uma rosa.

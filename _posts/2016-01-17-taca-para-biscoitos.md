@@ -2,6 +2,7 @@
 layout: diagrama
 title: Taça para biscoitos
 image: /img/taca_thumb.jpg
+category: Objectos
 ---
 
 Era preciso uma taça para servir uns biscoitos. Ok, mãos à obra.

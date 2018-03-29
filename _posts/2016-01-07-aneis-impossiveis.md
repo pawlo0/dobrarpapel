@@ -2,6 +2,7 @@
 layout: diagrama
 title: Anéis impossiveis
 image: /img/aneis_impossiveis_thumb.jpg
+category: Objectos
 ---
 
 Este modelo requer 6 rectângulos que depois encaixam uns nos outros. É um tipo de origami chamado de Origami Modular. Muitas das peças geométricas são feitas desta forma.

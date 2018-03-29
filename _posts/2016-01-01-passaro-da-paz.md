@@ -2,6 +2,7 @@
 layout: diagrama
 title: Pássaro da Paz (Senbazuru)
 image: /img/crane_thumb.jpg
+category: Aves
 ---
 
 O famoso pássaro japonês Senbazuru, ou em inglês *Crane*.
