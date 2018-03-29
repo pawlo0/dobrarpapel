@@ -8,4 +8,4 @@ Um modelo simples. Só os passos 8 e 9 podem ser mais complicados porque se tem 
 
 ![Caixa de presentes](/img/caixa_presentes.jpg)
 
-![diagrama da caixa de presentes](../img/img_dia_giftbox.jpg)
+![diagrama da caixa de presentes](/img/caixa_presentes_dia.jpg)
