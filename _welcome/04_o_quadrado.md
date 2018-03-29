@@ -1,6 +1,6 @@
 ---
 title: "O quadrado"
-rank: 4
+rank: 5
 ---
 
 Para quem dobra, o quadrado é a origem de todas as formas. Estruturas geométricas, animais, objectos e até pessoas aparecem do quadrado e depois, quando desdobrados, desmontados, dissolvem-se novamente no quadrado que lhes deu origem. Onde alguns vêm um simples, vazio, aborrecido quadrado sem significado, aquele que o vai dobrar vê um mundo de possibilidades para dar vida ao quadrado.

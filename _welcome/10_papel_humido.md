@@ -1,6 +1,6 @@
 ---
 title: "Papel húmido"
-rank: 10
+rank: 11
 ---
 
 Para quem começa na arte do Origami, a técnica conhecida pelo nome de *“wet folding”* pode não ser muito apelativa. Contudo, trata-se de uma técnica muito interessante e útil. Esta técnica, quando apareceu, estava envolta em secretismo, um pouco porque alguns puristas não concordam com esta e outras técnicas. Mas na realidade não tem segredo nenhum. Muito útil para dobrar animais e forma vivas, esta técnica permite fazer dobras rígidas e ao mesmo tempo curvas leves. O modelo fica com um aspecto muito mais sólido e tridimensional quando comparado com um modelo feito com papel seco. Além disso, permite usar folhas mais grossas e com maior probabilidade do modelo aguentar o seu próprio peso sem se desmanchar.

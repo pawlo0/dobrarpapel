@@ -1,6 +1,6 @@
 ---
 title: "As regras"
-rank: 2
+rank: 3
 ---
 
 Origami é a arte tradicional japonesa de dobrar papel. Começou no século 17 DC e em meados de 1900 popularizou-se fora do Japão. Desde então, tem evoluído para uma forma de arte moderna.

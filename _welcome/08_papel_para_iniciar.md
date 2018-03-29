@@ -1,6 +1,6 @@
 ---
 title: "Papel para iniciar"
-rank: 8
+rank: 9
 ---
 
 Para quem começa, o melhor papel é o papel fino e quebradiço e com a forma de um quadrado perfeito. Para os modelos simples há o papel japonês de origami, disponível em muitas lojas. Mas se não tiver acesso a papel de origami, não desespere. O papel corrente também serve para dobrar. Na realidade, eu aconselho a que no início não se preocupe muito com o papel que usa, o importante é começar a dobrar! Prefira papéis coloridos para efeitos mais interessantes. Mas conforme aumenta a complexidade dos modelos que escolhe, vai ser necessário ter atenção ao papel que utiliza. Muitos modelos que dobrei fracassaram pela má escolha de papel. Isso pode ser frustrante! A escolha do papel certo claramente determina o sucesso da conclusão do modelo e, acima de tudo, o aspecto final do modelo.

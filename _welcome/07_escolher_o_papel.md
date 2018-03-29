@@ -1,6 +1,6 @@
 ---
 title: "Escolher o papel"
-rank: 7
+rank: 8
 ---
 
 O que mais me atraiu no origami foi precisamente a facilidade com que se conseguem os materiais para começar. Há sempre um pedaço de papel à nossa volta. Uma folha de um caderno de apontamentos, ou de uma revista já lida, ou de uma fotocópia, podem ser dobrados em qualquer coisa engraçada.

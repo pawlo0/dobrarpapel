@@ -1,6 +1,6 @@
 ---
 title: "Dobras básicas"
-rank: 6
+rank: 7
 ---
 
 Tal como na múscias, onde existem notas base e depois uma infinidade de possiveis variações e combinações, no origami também existem dobras básicas que não são mais que uma dúzia delas. Depois variações dessas dobras básicas e diferentes combinações permitem que hajam um número infinito de possíveis modelos, mas quase sempre utilizando as dobras básicas abaixo descritas.

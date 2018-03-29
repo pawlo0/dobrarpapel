@@ -1,6 +1,6 @@
 ---
 title: "Como Começar"
-rank: 3
+rank: 4
 ---
 
 Para quem começa a dobrar ou ainda tem pouca experiência, aconselho a começar por entender bem os simbolos e as técnicas. É a melhor forma de evitar problemas no futuro e acima de tudo evitar as frustrações de não conseguir acabar um modelo!

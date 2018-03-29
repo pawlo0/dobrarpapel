@@ -1,6 +1,6 @@
 ---
 title: "Foil Paper"
-rank: 9
+rank: 10
 ---
 
 Devido à elasticidade natural do papel, há um relaxamento ao longo do tempo das dobras e curvas que não se aguentam na sua posição. Alguns artistas de origami desenvolveram técnicas de forma a tornar as dobras permanentes e para manter formas curvas sob tensão. A solução? Criar o seu próprio papel.

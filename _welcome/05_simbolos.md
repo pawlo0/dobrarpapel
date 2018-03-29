@@ -1,6 +1,6 @@
 ---
 title: "Simbolos"
-rank: 5
+rank: 6
 ---
 
 Pode parecer estranho mas a verdade é que todos os modelos origami são feitos a partir de pequeno conjunto de dobras. Assim, se aprender bem os seguintes símbolos e técnicas de dobra, não terá problemas em dobrar praticamente qualquer modelo de origami. Os tipos de dobras estão relacionadas entre si, pois todas são uma composição específica de dobras "em vale" e dobras "em montanha" (que curiosamente se distinguem conforme o ponto de vista, caso contrário, são exactamente a mesma coisa).

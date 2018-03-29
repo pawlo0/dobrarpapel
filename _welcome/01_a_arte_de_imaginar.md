@@ -1,6 +1,6 @@
 ---
 title: "A arte de imaginar"
-rank: 1
+rank: 2
 ---
 
 A maior alegria para quem dobra um pedaço de papel é quando, de um momento para o outro, alguém imediatamente atribui um significado à forma que surge no papel que acabamos de dobrar.
