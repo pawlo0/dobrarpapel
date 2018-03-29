@@ -4,7 +4,7 @@ title: Sapo tradicional
 image: /img/sapo_trad_thumb.jpg
 ---
 
-Outro modelo tradicional e muito popular. Ainda que de nivel de iniciante, dobrar este modelo pode ser um bocado dificil, principalmente a parte das patas. Mas o resultado é engraçado. 
+Outro modelo tradicional e muito popular. Ainda que seja considerado de nivel iniciante, dobrar este modelo pode ser um bocado dificil, principalmente a parte das patas do sapo. Mas o resultado é engraçado! 
 
 ![Sapo tradicional](/img/sapo_trad.jpg)
 
