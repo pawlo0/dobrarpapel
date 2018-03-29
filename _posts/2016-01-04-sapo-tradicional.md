@@ -1,11 +1,15 @@
 ---
 layout: diagrama
 title: Sapo tradicional
-image: ./img/img_25d.jpg
+image: /img/sapo_trad_thumb.jpg
 ---
 
-Outro modelo tradicional e muito popular. Este é mais complexo um bocado, principalmente a parte das patas. Mas o resultado é engraçado. O diagrama começa logo na base preliminar, mas ver o diagrama do Senbazuru para ver como se chega à base preliminar.
+Outro modelo tradicional e muito popular. Ainda que de nivel de iniciante, dobrar este modelo pode ser um bocado dificil, principalmente a parte das patas. Mas o resultado é engraçado. 
 
-![Sapo tradicional](../img/img_25d.jpg)
+![Sapo tradicional](/img/sapo_trad.jpg)
+
+![Sapo tradicional](/img/img_32.jpg)
+
+O diagrama começa logo na "base preliminar", mas veja o diagrama do Pássaro da Paz (Senbazuru) neste site para ver como se chega à base preliminar.
 
 ![Diagrama sapo tradicional](../img/img_dia_sapo.jpg)
