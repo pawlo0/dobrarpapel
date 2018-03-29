@@ -26,27 +26,29 @@
                             </li>
                         {% endfor %}
                     </ul>
-                    <div id="galleryAll">
-                        <div class="justifiedGallery">
-                            {% for post in site.posts %}
-                                <a href="{{ post.url | append: "index.html" }}">
-                                    <img alt="{{post.title}}" src="{{post.image}}"/>
-                                </a>
-                            {% endfor %}
-                        </div>
-                    </div>
-                    {% for category in site.categories %}
-                        {% capture category_name %}{{ category | first }}{% endcapture %}
-                        <div id="gallery{{ category_name}}">
+                    <div class="tab-content">
+                        <div id="galleryAll" class="tab-pane fade in active">
                             <div class="justifiedGallery">
+                                {% for post in site.posts %}
+                                    <a href="{{ post.url | append: "index.html" }}">
+                                        <img alt="{{post.title}}" src="{{post.image}}"/>
+                                    </a>
+                                {% endfor %}
+                            </div>
+                        </div>
+                        {% for category in site.categories %}
+                            {% capture category_name %}{{ category | first }}{% endcapture %}
+                            <div id="gallery{{ category_name}}" class="tab-pane fade">
+                                <div class="justifiedGallery">
                                     {% for post in site.categories[category_name] %}
                                         <a href="{{ post.url | append: "index.html" }}">
                                             <img alt="{{post.title}}" src="{{post.image}}"/>
                                         </a>
                                     {% endfor %}
                                 </div>                            
-                        </div>
-                    {% endfor %}
+                            </div>
+                        {% endfor %}
+                    </div>
                 </section>
                 {% for item in sorted_welcome %}
                     <section id="{{item.rank}}" class="content-section text-center contentWithFadeIn" style="opacity: 0">
