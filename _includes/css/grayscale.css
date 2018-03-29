@@ -291,6 +291,25 @@ a:focus {
     color: {{ site.color.primary-dark }};
 }
 
+#categories a {
+    color: white;
+}
+
+#categories .active a {
+    background-color: {{ site.color.primary-dark }};
+    border: 2px solid white;
+}
+
+#categories .active a:hover {
+    background-color: white;
+    color: {{ site.color.primary-dark }};
+}
+
+#categories a:hover {
+    color: {{ site.color.primary-dark }};
+}
+
+
 .btn {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -343,7 +362,7 @@ ul.banner-social-buttons li {
 footer {
     margin-top: 50px;
     padding: 50px 0;
-    background: url({{ "/img/pattern.png" | prepend: site.url }}) repeat top left;
+    background: url({{ "img/pattern.png" }}) repeat top left;
 }
 
 footer p {
