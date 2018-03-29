@@ -11,34 +11,34 @@
     
     {% assign sorted_welcome = site.welcome | sort:"rank" %}
     
-    
     <div class="container">
-        <section id=0 class="content-section text-center small-imgs fadeInFast">
-            <div class="row">
-                {% for post in site.posts %}
-                    <div class="clear">
-                        <div class="col-sm-6 col-md-4 col-lg-3">
-                            <a href="{{ post.url | append: "index.html" }}">
-                                <h5>{{ post.title }}</h5>
-                                <img class="img-responsive center-block" src="{{ post.image }}"/>
-                            </a>
-                        </div>
-                    </div>
-                {% endfor %}
-            </div>
-        </section>
         <div class="row">
             <div class="col-md-9">
-            {% for item in sorted_welcome %}
-            <section id="{{item.rank}}" class="content-section text-center contentWithFadeIn" style="opacity: 0">
-                <h2>{{item.title}}</h2>
-                {{item.content}}
-                <hr/>
-            </section>
-            {% endfor %}
+                <section id=0 class="content-section text-center small-imgs fadeInFast">
+                    <div class="row">
+                        {% for post in site.posts %}
+                            <div class="clear">
+                                <div class="col-sm-6 col-md-4 col-lg-3">
+                                    <a href="{{ post.url | append: "index.html" }}">
+                                        <h5>{{ post.title }}</h5>
+                                        <img class="img-responsive center-block" src="{{ post.image }}"/>
+                                    </a>
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </section>
+                {% for item in sorted_welcome %}
+                    <section id="{{item.rank}}" class="content-section text-center contentWithFadeIn" style="opacity: 0">
+                        <h2>{{item.title}}</h2>
+                        {{item.content}}
+                        <hr/>
+                    </section>
+                {% endfor %}
             </div>
             <div id="sidebar" class="col-md-3 hidden-xs hidden-sm">
                 <ul id="sidebar-nav" class="nav nav-pills nav-stacked" role="tablist">
+                    <li><a class="page-scroll" href="#0">Galeria</a></li>
                     {% for item in sorted_welcome %}
                         <li><a class="page-scroll" href="#{{item.rank}}">{{item.title}}</a></li>
                     {% endfor %}
@@ -46,8 +46,7 @@
                 </ul>            
             </div>
         </div>
-    </div>    
-    
+    </div>
     
     {% include footer.html %}
     {% include js.html %}
