@@ -261,6 +261,10 @@ a:focus {
     max-height: 150px;
 }
 
+.diagrama-imgs img {
+    max-width: 600px;
+}
+
 
 #sidebar-nav {
     padding-top: 100px;
