@@ -1,7 +1,7 @@
 ---
 layout: diagrama
 title: Cavalo (David Brill)
-image: cavalo_thumb.jpg
+image: img/cavalo_thumb.jpg
 category: Animais
 youtube: HD7f0VdOezU
 ---
