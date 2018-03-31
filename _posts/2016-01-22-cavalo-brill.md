@@ -12,10 +12,10 @@ Apesar de haver mais diagramas para cavalos, ainda estou por encontrar aquele qu
 
 O modelo da imagem abaixo foi dobrado a partir de um triângulo equilátero de papel de embrulho canelado recorrendo à técnica de wet folding.
 
+![Cavalo](../img/cavalo.jpg)
+
 ![Cavalo](../img/cavalo2.jpg)
 
 ![Cavalo](../img/cavalo3.jpg)
-
-![Cavalo](../img/cavalo.jpg)
 
 Há quem ensine a dobrar este modelo no Youtube. O video tem várias parte, pode encontrar a primeira parte aqui.
