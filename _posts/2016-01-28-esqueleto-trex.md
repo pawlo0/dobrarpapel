@@ -11,10 +11,10 @@ Modelo de Issei Yoshino. O diagrama para este modelo pode ser encontrado no livr
 
 O modelo das imagens abaixo foi dobrado a partir de 21 quadrados de papel Fabriano recorrendo à técnica de wet folding.
 
-![T-rex](.../img/yakai.jpg)
+![T-rex](../img/yakai.jpg)
 
-![T-rex](.../img/yakai2.jpg)
+![T-rex](../img/yakai2.jpg)
 
-![T-rex](.../img/yakai3.jpg)
+![T-rex](../img/yakai3.jpg)
 
-![T-rex](.../img/yakai4.jpg)
+![T-rex](../img/yakai4.jpg)
