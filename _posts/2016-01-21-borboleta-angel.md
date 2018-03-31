@@ -10,3 +10,5 @@ Modelo de Peter Engel. O diagrama deste modelo pode ser encontrado no livro [Ori
 O modelo da imagem abaixo foi dobrado a partir de um quadrado de papel foil.
 
 ![Borboleta Peter Angel](../img/borboleta_angel.jpg)
+
+![Borboleta Peter Angel](../img/borboleta_angel2.jpg)
